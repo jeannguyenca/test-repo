@@ -1,0 +1,1 @@
+myPara.style.color = "red"
